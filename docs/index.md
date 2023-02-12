@@ -1,11 +1,10 @@
-# Obsidian Notes
+# Start Here
 
-Publish your public notes with MkDocs
+Did the Internet exist prior to the invention of the World Wide Web? How did individuals from diverse regions of the world communicate and exchange their thoughts? These are the inquiries I am attempting to uncover.
 
-## Hello World!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+
+
+
