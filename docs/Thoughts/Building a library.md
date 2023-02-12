@@ -1,0 +1,3 @@
+#catalogue #atomic 
+
+Libraries are significant to society because they provide essential entry points to knowledge and culture. In addition, they offer educational materials and services, stimulating new ideas and perspectives and advancing literacy and education, all essential elements of a creative and innovative society. They create building blocks from which we can reference and build.

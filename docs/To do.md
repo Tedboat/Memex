@@ -1,0 +1,2 @@
+- I need to research more about the authors to get a better understanding of their viewpoint
+- I need to learn how to cite using Zotero

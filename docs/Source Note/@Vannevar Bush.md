@@ -1,0 +1,5 @@
+## Vannevar Bush, 1943 'As We May Think
+Bush, V. (1945, July). _The Atlantic_. The Atlantic; theatlantic. https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+
+### Summary & Key Take Aways
+Anmerican engineer [Vannevar Bush](https://www.youtube.com/watch?v=c539cK58ees&ab_channel=MarkSanderson-researcherauthored) "As We May Think," a well-known account of his Rapid Selector information retrieval device. The Memex, an electromechanical microfilm machine that Bush first envisioned in 1938 that can establish permanent associative connections in data, is described in the article. Characteristics of the hypothetical Memex foreshadowed the personal computer component and hyperlinks on the Internet. Bush discusses numerous information processing technology trends in the study and predicts how they might eventually be merged.
